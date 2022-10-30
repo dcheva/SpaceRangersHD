@@ -392,3 +392,38 @@ Total=4194176 KB
 Cache Size=221519 KB
 Textures Cache Size=185656 KB
 Rescaling Bm.FormRuins.2SBbg... ok
+Rescaling Bm.FormEnd2.PanelBottom... ok
+Rescaling Bm.FormEnd2.PanelTop... ok
+Rescaling Bm.FormScore2.2bg... ok
+Virtual memory usage is increasing (1055 MB)
+Memory Info
+Physical Memory:
+Used=4061184 KB
+Available=4263812 KB
+Total=8324996 KB
+Virtual Memory:
+Used=1080348 KB
+Available=3113828 KB
+Total=4194176 KB
+Cache Size=336381 KB
+Textures Cache Size=23772 KB
+Rescaling Bm.FormMain2.2AnimMain... ok
+Physical memory usage is decreasing (3687 MB)
+Memory Info
+Physical Memory:
+Used=3775908 KB
+Available=4549088 KB
+Total=8324996 KB
+Virtual Memory:
+Used=852364 KB
+Available=3341812 KB
+Total=4194176 KB
+Cache Size=110058 KB
+Textures Cache Size=34340 KB
+Rescaling Bm.FormOptions2.2Bg... ok
+Rescaling Bm.FormOptions2.2Left... ok
+Rescaling Bm.FormRuins.2SBbg... ok
+Rescaling Bm.FormGov2.2TWinB... ok
+Rescaling Bm.FormGov2.2TWin... ok
+Rescaling Bm.FormShop2.2bg... ok
+Rescaling Bm.FormShop2.2Gaal... ok

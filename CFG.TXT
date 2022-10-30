@@ -27,7 +27,7 @@ Music=False
 MusicInSpace=False
 MusicVolume=100
 
-CountFilmSave=7
+CountFilmSave=1
 
 Wind=1
 ShipTail=2
