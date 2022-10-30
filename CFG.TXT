@@ -1,4 +1,4 @@
-VideoMode=1024,768
+VideoMode=1920,1080
 RobotResolution=0,0
 SkipIntro=True
 Window=True
