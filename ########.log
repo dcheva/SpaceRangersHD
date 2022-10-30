@@ -128,3 +128,27 @@ fLoadQuest... ok
 fLoadAB... ok
 fAchievements... ok
 Rescaling Bm.FormMain2.2AnimMain... ok
+Physical memory usage is increasing (3539 MB)
+Memory Info
+Physical Memory:
+Used=3624048 KB
+Available=13069324 KB
+Total=16693372 KB
+Virtual Memory:
+Used=724056 KB
+Available=3470120 KB
+Total=4194176 KB
+Cache Size=371460 KB
+Textures Cache Size=27174 KB
+Virtual memory usage is increasing (778 MB)
+Memory Info
+Physical Memory:
+Used=3656872 KB
+Available=13036500 KB
+Total=16693372 KB
+Virtual Memory:
+Used=797352 KB
+Available=3396824 KB
+Total=4194176 KB
+Cache Size=373619 KB
+Textures Cache Size=46669 KB
