@@ -128,3 +128,35 @@ fLoadQuest... ok
 fLoadAB... ok
 fAchievements... ok
 Rescaling Bm.FormMain2.2AnimMain... ok
+Rescaling Bm.FormRuins.2SBbg... ok
+Physical memory usage is increasing (3994 MB)
+Memory Info
+Physical Memory:
+Used=4090164 KB
+Available=12603208 KB
+Total=16693372 KB
+Virtual Memory:
+Used=742992 KB
+Available=3451184 KB
+Total=4194176 KB
+Cache Size=317362 KB
+Textures Cache Size=41558 KB
+Rescaling Bm.FormGov2.2TWinB... ok
+Rescaling Bm.FormGov2.2TWin... ok
+Virtual memory usage is increasing (807 MB)
+Memory Info
+Physical Memory:
+Used=4206160 KB
+Available=12487212 KB
+Total=16693372 KB
+Virtual Memory:
+Used=827004 KB
+Available=3367172 KB
+Total=4194176 KB
+Cache Size=357317 KB
+Textures Cache Size=51323 KB
+Rescaling Bm.FormShop2.2bg... ok
+Rescaling Bm.FormShop2.2Gaal... ok
+Rescaling Bm.FormEnd2.PanelBottom... ok
+Rescaling Bm.FormEnd2.PanelTop... ok
+Not calc NextDay header
