@@ -6,51 +6,52 @@ Not installed - english, try to switch to russian
 Visual C++ 2010 (x86) found
 Visual C++ 2010 (x64) found
 Operating system=Windows 8 or newer build 6.2.9200  [x64]
-Processor=Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz (4 cores)
-CPU Clock=3707 MHz
-Physical Memory Total=8129 MB
-Physical Memory Available=4754 MB
-Page File Total=13505 MB
-Page File Available=10005 MB
+Processor=Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz (6 cores)
+CPU Clock=3698 MHz
+Physical Memory Total=16302 MB
+Physical Memory Available=13242 MB
+Page File Total=22300 MB
+Page File Available=17456 MB
 Virtual Memory Total=4095 MB
-Virtual Memory Available=3973 MB
+Virtual Memory Available=3972 MB
 Cache Size=393216 KB
 Loading configuration files.... ok!
 Creating window.... ok!
 Sound interfaces are:
 - Первичный звуковой драйвер
-- Динамики (High Definition Audio Device)
+- Line 1 (Virtual Audio Cable)
+- Headphones (High Definition Audio Device)
 - Digital Audio (S/PDIF) (High Definition Audio Device)
 Selected interface: 2 channels at 44100 Hz, 16 bit 
 Initializing sound.... ok!
 Initializing DX9.... ok!
-Videocard=AMD Radeon R7 200 Series
-Driver=aticfx32.dll
+Videocard=NVIDIA GeForce GTX 1660
+Driver=nvldumd.dll
 Max Texture Size=16384x16384
 Desktop Resolution=1920x1080
-Available Resolutions=1024x768, 1152x864, 1280x720, 1280x800, 1280x1024, 1440x900, 1600x900, 1600x1200, 1680x1050, 1920x1080
+Available Resolutions=1024x768, 1152x864, 1280x720, 1280x768, 1280x800, 1280x960, 1280x1024, 1360x768, 1366x768, 1600x900, 1600x1024, 1680x1050, 1920x1080
 Initializing Direct3D device... ok!
-Available Video Memory=4185088 KB
+Available Video Memory=4169728 KB
 Available Video Memory Override=262144 KB
-Display Mode=1024x768
+Display Mode=1920x1080 60Hz
 Sound=True
 Music=False
 fLoad... ok
 fPanelLoad... ok
 Load MatrixGame.dll .... ok
 Robot.Support()=0
-Physical memory usage is increasing (3603 MB)
+Physical memory usage is increasing (3311 MB)
 Memory Info
 Physical Memory:
-Used=3690148 KB
-Available=4634848 KB
-Total=8324996 KB
+Used=3391052 KB
+Available=13302320 KB
+Total=16693372 KB
 Virtual Memory:
-Used=516328 KB
-Available=3677848 KB
+Used=500224 KB
+Available=3693952 KB
 Total=4194176 KB
 Cache Size=140380 KB
-Textures Cache Size=22583 KB
+Textures Cache Size=18493 KB
 fPanelLoad... ok
 fMainForm... ok
 fPlanetQuest... ok
@@ -58,6 +59,7 @@ fLoad... ok
 fPanelLoad... ok
 fGameSettings2... ok
 fIntroduction... ok
+Rescaling Bm.PanelMain2.2BG... ok
 fPanelMain... ok
 fPanelPlanet... ok
 fPanelRuins... ok
@@ -125,173 +127,209 @@ fPanelLoad... ok
 fLoadQuest... ok
 fLoadAB... ok
 fAchievements... ok
-Rescaling Bm.City.People... ok
-Physical memory usage is increasing (3860 MB)
+Rescaling Bm.FormMain2.2AnimMain... ok
+Rescaling Bm.FormRuins.2MCbg... ok
+Rescaling Bm.FormGov2.2TWinB... ok
+Rescaling Bm.FormGov2.2TWin... ok
+Rescaling Bm.FormShop2.2bg... ok
+Rescaling Bm.FormShop2.2Gaal... ok
+Physical memory usage is increasing (3568 MB)
 Memory Info
 Physical Memory:
-Used=3953444 KB
-Available=4371552 KB
-Total=8324996 KB
+Used=3653768 KB
+Available=13039604 KB
+Total=16693372 KB
 Virtual Memory:
-Used=761796 KB
-Available=3432380 KB
+Used=807292 KB
+Available=3386884 KB
 Total=4194176 KB
-Cache Size=270429 KB
-Textures Cache Size=115557 KB
-Virtual memory usage is increasing (783 MB)
+Cache Size=357881 KB
+Textures Cache Size=88280 KB
+Virtual memory usage is increasing (805 MB)
 Memory Info
 Physical Memory:
-Used=3953652 KB
-Available=4371344 KB
-Total=8324996 KB
+Used=3647604 KB
+Available=13045768 KB
+Total=16693372 KB
 Virtual Memory:
-Used=802304 KB
-Available=3391872 KB
+Used=825072 KB
+Available=3369104 KB
 Total=4194176 KB
-Cache Size=274371 KB
-Textures Cache Size=117801 KB
-Rescaling Bm.Gov.2PeopleBGi... ok
-Rescaling Bm.FormRuins.2SBbg... ok
-Physical memory usage is increasing (4120 MB)
+Cache Size=358828 KB
+Textures Cache Size=91088 KB
+Rescaling Bm.FormInfo3.2BG... ok
+Physical memory usage is decreasing (3307 MB)
 Memory Info
 Physical Memory:
-Used=4219544 KB
-Available=4105452 KB
-Total=8324996 KB
+Used=3386576 KB
+Available=13306796 KB
+Total=16693372 KB
 Virtual Memory:
-Used=826120 KB
-Available=3368056 KB
+Used=820112 KB
+Available=3374064 KB
 Total=4194176 KB
-Cache Size=221892 KB
-Textures Cache Size=169846 KB
-Physical memory usage is decreasing (3830 MB)
-Memory Info
-Physical Memory:
-Used=3921748 KB
-Available=4403248 KB
-Total=8324996 KB
-Virtual Memory:
-Used=826120 KB
-Available=3368056 KB
-Total=4194176 KB
-Cache Size=221892 KB
-Textures Cache Size=169846 KB
-Physical memory usage is decreasing (3548 MB)
-Memory Info
-Physical Memory:
-Used=3633708 KB
-Available=4691288 KB
-Total=8324996 KB
-Virtual Memory:
-Used=826120 KB
-Available=3368056 KB
-Total=4194176 KB
-Cache Size=221892 KB
-Textures Cache Size=169846 KB
-Rescaling Bm.FormRuins.2RCbg... ok
-Physical memory usage is increasing (3805 MB)
-Memory Info
-Physical Memory:
-Used=3896404 KB
-Available=4428592 KB
-Total=8324996 KB
-Virtual Memory:
-Used=833880 KB
-Available=3360296 KB
-Total=4194176 KB
-Cache Size=233929 KB
-Textures Cache Size=35968 KB
-Physical memory usage is decreasing (3548 MB)
-Memory Info
-Physical Memory:
-Used=3633236 KB
-Available=4691760 KB
-Total=8324996 KB
-Virtual Memory:
-Used=826064 KB
-Available=3368112 KB
-Total=4194176 KB
-Cache Size=234975 KB
+Cache Size=156586 KB
 Textures Cache Size=0 KB
 Rescaling Bm.FormRuins.2BKbg... ok
+Rescaling Bm.FormShop2.2People... ok
+Rescaling Bm.FormOptions2.2Bg... ok
+Rescaling Bm.FormOptions2.2Left... ok
+Rescaling Bm.City.People... ok
+Rescaling Bm.Gov.2PeopleBGi... ok
+Rescaling Bm.FormRuins.2SBbg... ok
+Rescaling Bm.FormShop2.2Fei... ok
+Not calc NextDay header
+Physical memory usage is increasing (3565 MB)
+Memory Info
+Physical Memory:
+Used=3650624 KB
+Available=13042748 KB
+Total=16693372 KB
+Virtual Memory:
+Used=1002536 KB
+Available=3191640 KB
+Total=4194176 KB
+Cache Size=271763 KB
+Textures Cache Size=29537 KB
+Virtual memory usage is increasing (1062 MB)
+Memory Info
+Physical Memory:
+Used=3717792 KB
+Available=12975580 KB
+Total=16693372 KB
+Virtual Memory:
+Used=1088068 KB
+Available=3106108 KB
+Total=4194176 KB
+Cache Size=299467 KB
+Textures Cache Size=94343 KB
+Rescaling Bm.City.Gaal... ok
+Rescaling Bm.Gov.2GaalBGi... ok
+Rescaling Bm.FormRuins.2RCbg... ok
 Rescaling Bm.City.Peleng... ok
 Rescaling Bm.Gov.2PelengBGi... ok
+Rescaling Bm.FormShop2.2Peleng... ok
+Rescaling Bm.City.GaalPirate... ok
+Rescaling Bm.Gov.GaalPirateBG... ok
+Physical memory usage is increasing (3829 MB)
+Memory Info
+Physical Memory:
+Used=3921560 KB
+Available=12771812 KB
+Total=16693372 KB
+Virtual Memory:
+Used=1049380 KB
+Available=3144796 KB
+Total=4194176 KB
+Cache Size=361907 KB
+Textures Cache Size=123085 KB
+Rescaling Bm.FormEnd2.PanelBottom... ok
+Rescaling Bm.FormEnd2.PanelTop... ok
+Rescaling Bm.FormScore2.2bg... ok
+Rescaling Bm.FormMain2.2AnimMain... ok
+Physical memory usage is decreasing (3420 MB)
+Memory Info
+Physical Memory:
+Used=3503008 KB
+Available=13190364 KB
+Total=16693372 KB
+Virtual Memory:
+Used=898680 KB
+Available=3295496 KB
+Total=4194176 KB
+Cache Size=112926 KB
+Textures Cache Size=34340 KB
+Physical memory usage is increasing (3691 MB)
+Memory Info
+Physical Memory:
+Used=3780404 KB
+Available=12912968 KB
+Total=16693372 KB
+Virtual Memory:
+Used=1076160 KB
+Available=3118016 KB
+Total=4194176 KB
+Cache Size=292246 KB
+Textures Cache Size=43914 KB
+Rescaling Bm.City.GaalPirate... ok
+Rescaling Bm.Gov.GaalPirateBG... ok
+Rescaling Bm.FormGov2.2TWinB... ok
+Rescaling Bm.FormGov2.2TWin... ok
+Rescaling Bm.FormShop2.2bg... ok
+Rescaling Bm.FormShop2.2Gaal... ok
+Rescaling Bm.FormInfo3.2BG... ok
+Rescaling Bm.City.Peleng... ok
+Rescaling Bm.Gov.2PelengBGi... ok
+Rescaling Bm.FormShop2.2Peleng... ok
 Rescaling Bm.FormOptions2.2Bg... ok
-Physical memory usage is increasing (3805 MB)
-Memory Info
-Physical Memory:
-Used=3896520 KB
-Available=4428476 KB
-Total=8324996 KB
-Virtual Memory:
-Used=941780 KB
-Available=3252396 KB
-Total=4194176 KB
-Cache Size=306588 KB
-Textures Cache Size=62817 KB
-Physical memory usage is increasing (4063 MB)
-Memory Info
-Physical Memory:
-Used=4161528 KB
-Available=4163468 KB
-Total=8324996 KB
-Virtual Memory:
-Used=960820 KB
-Available=3233356 KB
-Total=4194176 KB
-Cache Size=314612 KB
-Textures Cache Size=105316 KB
+Rescaling Bm.FormOptions2.2Left... ok
 Operating system=Windows 8 or newer build 6.2.9200  [x64]
-Physical memory usage is decreasing (3448 MB)
+Virtual memory usage is decreasing (720 MB)
+Physical memory usage is decreasing (3219 MB)
 Memory Info
 Physical Memory:
-Used=3530892 KB
-Available=4794104 KB
-Total=8324996 KB
+Used=3296356 KB
+Available=13397016 KB
+Total=16693372 KB
 Virtual Memory:
-Used=618608 KB
-Available=3575568 KB
+Used=737448 KB
+Available=3456728 KB
 Total=4194176 KB
 Textures Cache Size=0 KB
-Processor=Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz (4 cores)
-CPU Clock=3619 MHz
-Physical Memory Total=8129 MB
-Physical Memory Available=4681 MB
-Page File Total=13505 MB
-Page File Available=9382 MB
+Processor=Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz (6 cores)
+CPU Clock=3699 MHz
+Physical Memory Total=16302 MB
+Physical Memory Available=13085 MB
+Page File Total=22300 MB
+Page File Available=17070 MB
 Virtual Memory Total=4095 MB
-Virtual Memory Available=3491 MB
+Virtual Memory Available=3375 MB
 Cache Size=393216 KB
 Loading configuration files.... ok!
 Creating window.... ok!
 Sound interfaces are:
 - Первичный звуковой драйвер
-- Динамики (High Definition Audio Device)
+- Line 1 (Virtual Audio Cable)
+- Headphones (High Definition Audio Device)
 - Digital Audio (S/PDIF) (High Definition Audio Device)
 Selected interface: 2 channels at 44100 Hz, 16 bit 
 Initializing sound.... ok!
+Loading libvorbisfile.dll....ok!
+Pre-fetching music.... ok!
 Max Texture Size=16384x16384
 Desktop Resolution=1920x1080
-Available Resolutions=1024x768, 1152x864, 1280x720, 1280x800, 1280x1024, 1440x900, 1600x900, 1600x1200, 1680x1050, 1920x1080
+Available Resolutions=1024x768, 1152x864, 1280x720, 1280x768, 1280x800, 1280x960, 1280x1024, 1360x768, 1366x768, 1600x900, 1600x1024, 1680x1050, 1920x1080
 Re-initializing Direct3D device... ok!
 Available Video Memory=4169728 KB
 Available Video Memory Override=262144 KB
 Display Mode=1920x1080 60Hz
 Sound=True
-Music=False
+Music=True
 fLoad... ok
 fPanelLoad... ok
 Load MatrixGame.dll .... ok
 Robot.Support()=0
-Physical memory usage is increasing (3719 MB)
+Virtual memory usage is increasing (997 MB)
 Memory Info
 Physical Memory:
-Used=3808988 KB
-Available=4516008 KB
-Total=8324996 KB
+Used=3556992 KB
+Available=13136380 KB
+Total=16693372 KB
 Virtual Memory:
-Used=917552 KB
-Available=3276624 KB
+Used=1021708 KB
+Available=3172468 KB
+Total=4194176 KB
+Cache Size=222248 KB
+Textures Cache Size=17982 KB
+Physical memory usage is increasing (3497 MB)
+Memory Info
+Physical Memory:
+Used=3581268 KB
+Available=13112104 KB
+Total=16693372 KB
+Virtual Memory:
+Used=1044304 KB
+Available=3149872 KB
 Total=4194176 KB
 Cache Size=249825 KB
 Textures Cache Size=17982 KB
@@ -370,25 +408,95 @@ fPanelLoad... ok
 fLoadQuest... ok
 fLoadAB... ok
 fAchievements... ok
-Rescaling Bm.City.Peleng... ok
-Rescaling Bm.Gov.2PelengBGi... ok
+music\rev\nikinit_polet.dat
+music\special\outroden.dat
+Rescaling Bm.FormRuins.2SBbg... ok
 Rescaling Bm.FormGov2.2TWinB... ok
 Rescaling Bm.FormGov2.2TWin... ok
-Rescaling Bm.FormShop2.2bg... ok
-Rescaling Bm.FormShop2.2Peleng... ok
 Rescaling Bm.FormInfo3.2BG... ok
-Rescaling Bm.FormRuins.2MCbg... ok
+music\planet\fei1.dat
+Rescaling Bm.FormShop2.2bg... ok
+Rescaling Bm.FormShop2.2Fei... ok
+music\fly\beyond_reach.dat
+music\planet\gaal.dat
+Rescaling Bm.City.Gaal... ok
+Rescaling Bm.Gov.2GaalBGi... ok
 Rescaling Bm.FormShop2.2Gaal... ok
-Physical memory usage is increasing (3976 MB)
+music\planet\gaal.dat
+music\rev\theo_waiting_for_you.dat
+music\planet\gaal.dat
+music\fly\beyond_reach.dat
+music\planet\malloc4.dat
+Rescaling Bm.City.Maloc... ok
+Rescaling Bm.Gov.2MalocBGi... ok
+music\planet\malloc4.dat
+music\fly\longway.dat
+music\planet\malloc4.dat
+music\battle\fight2.dat
+music\special\outroden.dat
+Rescaling Bm.FormRuins.2MCbg... ok
+music\rev\nikinit_pulsar.dat
+music\battle\boy1.dat
+music\rev\engine_warming.dat
+music\battle\boy1.dat
+music\rev\wen_children_of_eltan.dat
+music\rev\nikinit_warman.dat
+music\planet\weapon.dat
+Rescaling Bm.City.Peleng... ok
+Rescaling Bm.Gov.2PelengBGi... ok
+Rescaling Bm.FormShop2.2Peleng... ok
+Physical memory usage is increasing (3754 MB)
 Memory Info
 Physical Memory:
-Used=4071728 KB
-Available=4253268 KB
-Total=8324996 KB
+Used=3844216 KB
+Available=12849156 KB
+Total=16693372 KB
 Virtual Memory:
-Used=864932 KB
-Available=3329244 KB
+Used=1077660 KB
+Available=3116516 KB
 Total=4194176 KB
-Cache Size=221519 KB
-Textures Cache Size=185656 KB
-Rescaling Bm.FormRuins.2SBbg... ok
+Cache Size=324679 KB
+Textures Cache Size=80374 KB
+music\fly\longway.dat
+music\battle\boy1.dat
+music\special\hymn.dat
+Rescaling Bm.FormEnd2.PanelBottom... ok
+Rescaling Bm.FormEnd2.PanelTop... ok
+music\planet\weapon.dat
+music\planet\weapon.dat
+music\rev\theo_running_away.dat
+music\planet\weapon.dat
+music\fly\longway.dat
+music\battle\boy1.dat
+music\rev\nikinit_polet.dat
+music\rev\nikinit_fight3.dat
+music\special\hymn.dat
+music\planet\weapon.dat
+music\planet\weapon.dat
+music\special\hymn.dat
+music\planet\weapon.dat
+music\fly\longway.dat
+music\planet\weapon.dat
+music\planet\weapon.dat
+music\rev\theo_waiting_for_you.dat
+music\planet\weapon.dat
+music\fly\longway.dat
+music\battle\boy1.dat
+music\rev\theo_just_listen.dat
+music\planet\weapon.dat
+music\fly\longway.dat
+music\planet\weapon.dat
+music\fly\longway.dat
+music\planet\weapon.dat
+music\fly\longway.dat
+music\planet\cosmic.dat
+music\rev\engine_warming.dat
+Rescaling Bm.FormPQuest2.2S1... ok
+Rescaling Bm.FormPQuest2.2Panel... ok
+music\rev\nikinit_pulsar.dat
+music\rev\nikinit_pulsar.dat
+music\rev\theo_running_away.dat
+music\special\silentflower.dat
+music\rev\yozhik_a_guest_from_the_future.dat
+music\rev\theo_running_away.dat
+Rescaling Bm.FormMain2.2AnimMain... ok

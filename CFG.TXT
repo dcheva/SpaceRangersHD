@@ -13,8 +13,8 @@ MultiThread=True
 
 Debug=No
 
-Brightness=0.00
-Contrast=0.00
+Brightness=0,00
+Contrast=0,00
 
 BGOCount=5
 BGOTime=300
@@ -23,9 +23,9 @@ Sound=True
 SoundInSpace=True
 SoundVolume=100
 
-Music=False
-MusicInSpace=False
-MusicVolume=100
+Music=True
+MusicInSpace=True
+MusicVolume=50
 
 CountFilmSave=7
 
@@ -52,8 +52,8 @@ ShowFPS=False
 FilmSpeed=1
 SkipGiper=True
 ChangeAutoPilot=2
-MusicInHyper=False
-MusicInPlanet=False
+MusicInHyper=True
+MusicInPlanet=True
 DefaultOrder=0
 PQuestAnim=True
 PQuestStyle=0
@@ -65,7 +65,7 @@ PlanetClouds=True
 PlanetAtm=True
 SkipVideo=False
 RightClickOnShip=0
-BeginCalcNextTurn=100
+BeginCalcNextTurn=80
 
 RobotShowStencilShadows=True
 RobotShowProjShadows=True
@@ -79,8 +79,8 @@ RobotMusic=True
 RobotSound=True
 RobotColorDepth=32
 RobotRefreshRate=0
-RobotBrightness=0.00
-RobotContrast=0.00
+RobotBrightness=0,00
+RobotContrast=0,00
 RobotSoundVolume=100
 RobotMusicVolume=100
 RobotVSync=True
@@ -93,7 +93,7 @@ ViewFollowShip=True
 ViewPathLength=True
 ActionDoubleClick=True
 ClickAutoCloseForm=True
-TurnSaveStep=7
+TurnSaveStep=1
 MaxPlayerNews=30
 MaxSearchResult=100
 DisableAutoPilot=False
@@ -106,7 +106,7 @@ DynamicTipsPos=True
 UseTablesForGov=False
 CurrentVersion=2.1.2442
 VideoMemSizeLimit=256
-QuickSaveExtraSlots=0
+QuickSaveExtraSlots=9
 ForsageDeactivatePercent=35
 AnimMenuShip=True
 FontSmooth=False
