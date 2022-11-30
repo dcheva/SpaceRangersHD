@@ -1,20 +1,20 @@
-VideoMode=1920,1080
+VideoMode=1280,800
 RobotResolution=0,0
 SkipIntro=True
-Window=True
-VSync=False
+Window=False
+VSync=True
 
 HardwareRender=True
 DisableTextureManager=False
 RenderModeScale=True
 
 SimpleCalc=False
-MultiThread=True
+MultiThread=False
 
 Debug=No
 
-Brightness=0,00
-Contrast=0,00
+Brightness=0.00
+Contrast=0.00
 
 BGOCount=5
 BGOTime=300
@@ -25,11 +25,11 @@ SoundVolume=100
 
 Music=True
 MusicInSpace=True
-MusicVolume=50
+MusicVolume=75
 
-CountFilmSave=7
+CountFilmSave=30
 
-Wind=1
+Wind=2
 ShipTail=2
 AnimCaptain=True
 AnimItem=True
@@ -40,16 +40,16 @@ AnimHangar=True
 AnimStar=True
 SputnikShow=True
 CircleAction=False
-SpaceImage=1
-Comet=1
+SpaceImage=2
+Comet=2
 
 ScrollTime=20
 ScrollStep=20
 
 CacheSize=0
-ShowFPS=False
+ShowFPS=True
 
-FilmSpeed=1
+FilmSpeed=2
 SkipGiper=True
 ChangeAutoPilot=2
 MusicInHyper=True
@@ -65,7 +65,7 @@ PlanetClouds=True
 PlanetAtm=True
 SkipVideo=False
 RightClickOnShip=0
-BeginCalcNextTurn=80
+BeginCalcNextTurn=100
 
 RobotShowStencilShadows=True
 RobotShowProjShadows=True
@@ -79,10 +79,10 @@ RobotMusic=True
 RobotSound=True
 RobotColorDepth=32
 RobotRefreshRate=0
-RobotBrightness=0,00
-RobotContrast=0,00
+RobotBrightness=0.00
+RobotContrast=0.00
 RobotSoundVolume=100
-RobotMusicVolume=100
+RobotMusicVolume=75
 RobotVSync=True
 RobotFSAASamples=0
 RobotAnisotropy=0
@@ -90,10 +90,10 @@ RobotMaxDistance=100
 
 ShowSystemMouse=True
 ViewFollowShip=True
-ViewPathLength=True
+ViewPathLength=False
 ActionDoubleClick=True
 ClickAutoCloseForm=True
-TurnSaveStep=1
+TurnSaveStep=0
 MaxPlayerNews=30
 MaxSearchResult=100
 DisableAutoPilot=False
@@ -106,7 +106,7 @@ DynamicTipsPos=True
 UseTablesForGov=False
 CurrentVersion=2.1.2442
 VideoMemSizeLimit=256
-QuickSaveExtraSlots=9
+QuickSaveExtraSlots=0
 ForsageDeactivatePercent=35
 AnimMenuShip=True
 FontSmooth=False

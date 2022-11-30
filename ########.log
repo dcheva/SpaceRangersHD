@@ -7,13 +7,14 @@ Visual C++ 2010 (x86) found
 Visual C++ 2010 (x64) found
 Operating system=Windows 8 or newer build 6.2.9200  [x64]
 Processor=Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz (6 cores)
-CPU Clock=3697 MHz
+CPU Clock=3699 MHz
 Physical Memory Total=16302 MB
-Physical Memory Available=12276 MB
-Page File Total=18734 MB
-Page File Available=13199 MB
+Physical Memory Available=12640 MB
+Page File Total=18606 MB
+Page File Available=13568 MB
 Virtual Memory Total=4095 MB
 Virtual Memory Available=3972 MB
+Creating cfg.txt ... ok!
 Cache Size=393216 KB
 Loading configuration files.... ok!
 Creating window.... ok!
@@ -21,6 +22,7 @@ Sound interfaces are:
 - Первичный звуковой драйвер
 - Line 1 (Virtual Audio Cable)
 - Headphones (High Definition Audio Device)
+- Динамики (High Definition Audio Device)
 - Digital Audio (S/PDIF) (High Definition Audio Device)
 Selected interface: 2 channels at 44100 Hz, 16 bit 
 Initializing sound.... ok!
@@ -42,18 +44,18 @@ fLoad... ok
 fPanelLoad... ok
 Load MatrixGame.dll .... ok
 Robot.Support()=0
-Physical memory usage is increasing (4324 MB)
+Physical memory usage is increasing (3896 MB)
 Memory Info
 Physical Memory:
-Used=4428184 KB
-Available=12265188 KB
+Used=3990460 KB
+Available=12702912 KB
 Total=16693372 KB
 Virtual Memory:
-Used=362780 KB
-Available=3831396 KB
+Used=539204 KB
+Available=3654972 KB
 Total=4194176 KB
-Cache Size=15478 KB
-Textures Cache Size=3640 KB
+Cache Size=198725 KB
+Textures Cache Size=22583 KB
 fPanelLoad... ok
 fMainForm... ok
 fPlanetQuest... ok
@@ -129,3 +131,867 @@ fPanelLoad... ok
 fLoadQuest... ok
 fLoadAB... ok
 fAchievements... ok
+music\fly\hyperdream2.dat
+Rescaling Bm.FormMain2.2AnimMain... ok
+Physical memory usage is decreasing (3617 MB)
+Memory Info
+Physical Memory:
+Used=3704756 KB
+Available=12988616 KB
+Total=16693372 KB
+Virtual Memory:
+Used=659612 KB
+Available=3534564 KB
+Total=4194176 KB
+Cache Size=306948 KB
+Textures Cache Size=53865 KB
+Physical memory usage is increasing (4124 MB)
+Memory Info
+Physical Memory:
+Used=4223604 KB
+Available=12469768 KB
+Total=16693372 KB
+Virtual Memory:
+Used=656416 KB
+Available=3537760 KB
+Total=4194176 KB
+Cache Size=306948 KB
+Textures Cache Size=54032 KB
+Physical memory usage is decreasing (3616 MB)
+Memory Info
+Physical Memory:
+Used=3703384 KB
+Available=12989988 KB
+Total=16693372 KB
+Virtual Memory:
+Used=650016 KB
+Available=3544160 KB
+Total=4194176 KB
+Cache Size=306948 KB
+Textures Cache Size=54032 KB
+Physical memory usage is decreasing (3068 MB)
+Memory Info
+Physical Memory:
+Used=3142328 KB
+Available=13551044 KB
+Total=16693372 KB
+Virtual Memory:
+Used=650016 KB
+Available=3544160 KB
+Total=4194176 KB
+Cache Size=306948 KB
+Textures Cache Size=54032 KB
+Rescaling Bm.FormGameSet2.2bg... ok
+Rescaling Bm.FormGameSet2.2Footer... ok
+Rescaling Bm.FormIntro2.PanelBottom... ok
+Rescaling Bm.FormIntro2.PanelTop... ok
+music\fly\theo-inside.dat
+Rescaling Bm.FormRuins.2RCbg... ok
+Rescaling Bm.FormGov2.2TWinB... ok
+Rescaling Bm.FormGov2.2TWin... ok
+Rescaling Bm.FormShop2.2bg... ok
+Rescaling Bm.FormShop2.2Fei... ok
+Rescaling Bm.FormInfo3.2BG... ok
+music\planet\fei1.dat
+Virtual memory usage is increasing (783 MB)
+Memory Info
+Physical Memory:
+Used=3111508 KB
+Available=13581864 KB
+Total=16693372 KB
+Virtual Memory:
+Used=802196 KB
+Available=3391980 KB
+Total=4194176 KB
+Cache Size=391477 KB
+Textures Cache Size=23993 KB
+music\fly\theo-inside.dat
+music\planet\fei1.dat
+music\fly\theo-inside.dat
+Rescaling Bm.FormOptions2.2Bg... ok
+Rescaling Bm.FormOptions2.2Left... ok
+Rescaling Bm.FormOptions2.2Right... ok
+Operating system=Windows 8 or newer build 6.2.9200  [x64]
+Physical memory usage is decreasing (2628 MB)
+Memory Info
+Physical Memory:
+Used=2691864 KB
+Available=14001508 KB
+Total=16693372 KB
+Virtual Memory:
+Used=471000 KB
+Available=3723176 KB
+Total=4194176 KB
+Textures Cache Size=0 KB
+Processor=Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz (6 cores)
+CPU Clock=3699 MHz
+Physical Memory Total=16302 MB
+Physical Memory Available=13676 MB
+Page File Total=18606 MB
+Page File Available=14542 MB
+Virtual Memory Total=4095 MB
+Virtual Memory Available=3635 MB
+Cache Size=393216 KB
+Loading configuration files.... ok!
+Creating window.... ok!
+Sound interfaces are:
+- Первичный звуковой драйвер
+- Line 1 (Virtual Audio Cable)
+- Headphones (High Definition Audio Device)
+- Динамики (High Definition Audio Device)
+- Digital Audio (S/PDIF) (High Definition Audio Device)
+Selected interface: 2 channels at 44100 Hz, 16 bit 
+Initializing sound.... ok!
+Pre-fetching music.... ok!
+Max Texture Size=16384x16384
+Desktop Resolution=1920x1080
+Available Resolutions=1024x768, 1152x864, 1280x720, 1280x768, 1280x800, 1280x960, 1280x1024, 1360x768, 1366x768, 1600x900, 1600x1024, 1680x1050, 1920x1080
+Re-initializing Direct3D device... ok!
+Available Video Memory=4183040 KB
+Available Video Memory Override=262144 KB
+Display Mode=1280x720 60Hz
+Sound=True
+Music=True
+fLoad... ok
+fPanelLoad... ok
+Load MatrixGame.dll .... ok
+Robot.Support()=0
+Virtual memory usage is decreasing (519 MB)
+Memory Info
+Physical Memory:
+Used=2726936 KB
+Available=13966436 KB
+Total=16693372 KB
+Virtual Memory:
+Used=519540 KB
+Available=3674636 KB
+Total=4194176 KB
+Cache Size=21706 KB
+Textures Cache Size=16960 KB
+fPanelLoad... ok
+fMainForm... ok
+fPlanetQuest... ok
+fLoad... ok
+fPanelLoad... ok
+fGameSettings2... ok
+fIntroduction... ok
+Rescaling Bm.PanelMain2.2BG... ok
+fPanelMain... ok
+fPanelPlanet... ok
+fPanelRuins... ok
+fPanelLoad... ok
+fHangar... ok
+fPanelMain... ok
+fPanelPlanet... ok
+fPanelLoad... ok
+fPlanet... ok
+fPanelMain... ok
+fPanelLoad... ok
+fPlanetNO... ok
+fPanelMain... ok
+fPanelRuins... ok
+fPanelLoad... ok
+fRuinsTalk... ok
+ab_MainForm... ok
+fPanelLoad... ok
+fPanelMain... ok
+fPanelPlanet... ok
+fPanelRuins... ok
+fPanelLoad... ok
+fEquipmentShop... ok
+fPanelMain... ok
+fPanelPlanet... ok
+fPanelRuins... ok
+fPanelLoad... ok
+fGoodsShop2... ok
+fPanelMain... ok
+fPanelPlanet... ok
+fPanelLoad... ok
+fGov... ok
+fPanelMain... ok
+fPanelPlanet... ok
+fPanelRuins... ok
+fPanelLoad... ok
+fInfo... ok
+fPanelMain... ok
+fRewards... ok
+fPanelMain... ok
+fShip2... ok
+fScaner... ok
+fPanelMain... ok
+fPanelLoad... ok
+fStarMap... ok
+fFilm... ok
+fPanelMain... ok
+fGalaxy2... ok
+fPanelLoad... ok
+fJump... ok
+fSaveManager... ok
+fGameLoad... ok
+fPanelLoad... ok
+fGameMenu... ok
+fCfgSettings... ok
+fGameEnd... ok
+fAbout... ok
+fScore... ok
+fSelectFace... ok
+fPanelMain... ok
+fJournal... ok
+fPanelLoad... ok
+fLoadRobot... ok
+fPanelLoad... ok
+fLoadQuest... ok
+fLoadAB... ok
+fAchievements... ok
+Rescaling Bm.FormRuins.2RCbg... Physical memory usage is increasing (2894 MB)
+Memory Info
+Physical Memory:
+Used=2963772 KB
+Available=13729600 KB
+Total=16693372 KB
+Virtual Memory:
+Used=756084 KB
+Available=3438092 KB
+Total=4194176 KB
+Cache Size=241588 KB
+Textures Cache Size=24628 KB
+ok
+music\fly\theo-inside.dat
+Rescaling Bm.FormOptions2.2Bg... ok
+Operating system=Windows 8 or newer build 6.2.9200  [x64]
+Physical memory usage is decreasing (2620 MB)
+Memory Info
+Physical Memory:
+Used=2683840 KB
+Available=14009532 KB
+Total=16693372 KB
+Virtual Memory:
+Used=472644 KB
+Available=3721532 KB
+Total=4194176 KB
+Textures Cache Size=0 KB
+Processor=Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz (6 cores)
+CPU Clock=3705 MHz
+Physical Memory Total=16302 MB
+Physical Memory Available=13680 MB
+Page File Total=18606 MB
+Page File Available=14691 MB
+Virtual Memory Total=4095 MB
+Virtual Memory Available=3634 MB
+Cache Size=393216 KB
+Loading configuration files.... ok!
+Creating window.... ok!
+Sound interfaces are:
+- Первичный звуковой драйвер
+- Line 1 (Virtual Audio Cable)
+- Headphones (High Definition Audio Device)
+- Динамики (High Definition Audio Device)
+- Digital Audio (S/PDIF) (High Definition Audio Device)
+Selected interface: 2 channels at 44100 Hz, 16 bit 
+Initializing sound.... ok!
+Pre-fetching music.... ok!
+Max Texture Size=16384x16384
+Desktop Resolution=1920x1080
+Available Resolutions=1024x768, 1152x864, 1280x720, 1280x768, 1280x800, 1280x960, 1280x1024, 1360x768, 1366x768, 1600x900, 1600x1024, 1680x1050, 1920x1080
+Re-initializing Direct3D device... ok!
+Available Video Memory=4183040 KB
+Available Video Memory Override=262144 KB
+Display Mode=1280x768 60Hz
+Sound=True
+Music=True
+fLoad... ok
+fPanelLoad... ok
+Load MatrixGame.dll .... ok
+Robot.Support()=0
+fPanelLoad... ok
+fMainForm... ok
+fPlanetQuest... ok
+fLoad... ok
+fPanelLoad... ok
+fGameSettings2... ok
+fIntroduction... ok
+Rescaling Bm.PanelMain2.2BG... ok
+fPanelMain... ok
+fPanelPlanet... ok
+fPanelRuins... ok
+fPanelLoad... ok
+fHangar... ok
+fPanelMain... ok
+fPanelPlanet... ok
+fPanelLoad... ok
+fPlanet... ok
+fPanelMain... ok
+fPanelLoad... ok
+fPlanetNO... ok
+fPanelMain... ok
+fPanelRuins... ok
+fPanelLoad... ok
+fRuinsTalk... ok
+ab_MainForm... ok
+fPanelLoad... ok
+fPanelMain... ok
+fPanelPlanet... ok
+fPanelRuins... ok
+fPanelLoad... ok
+fEquipmentShop... ok
+fPanelMain... ok
+fPanelPlanet... ok
+fPanelRuins... ok
+fPanelLoad... ok
+fGoodsShop2... ok
+fPanelMain... ok
+fPanelPlanet... ok
+fPanelLoad... ok
+fGov... ok
+fPanelMain... ok
+fPanelPlanet... ok
+fPanelRuins... ok
+fPanelLoad... ok
+fInfo... ok
+fPanelMain... ok
+fRewards... ok
+fPanelMain... ok
+fShip2... ok
+fScaner... ok
+fPanelMain... ok
+fPanelLoad... ok
+fStarMap... ok
+fFilm... ok
+fPanelMain... ok
+fGalaxy2... ok
+fPanelLoad... ok
+fJump... ok
+fSaveManager... ok
+fGameLoad... ok
+fPanelLoad... ok
+fGameMenu... ok
+fCfgSettings... ok
+fGameEnd... ok
+fAbout... ok
+fScore... ok
+fSelectFace... ok
+fPanelMain... ok
+fJournal... ok
+fPanelLoad... ok
+fLoadRobot... ok
+fPanelLoad... ok
+fLoadQuest... ok
+fLoadAB... ok
+fAchievements... ok
+Physical memory usage is increasing (2880 MB)
+Memory Info
+Physical Memory:
+Used=2949644 KB
+Available=13743728 KB
+Total=16693372 KB
+Virtual Memory:
+Used=747656 KB
+Available=3446520 KB
+Total=4194176 KB
+Cache Size=229408 KB
+Textures Cache Size=26161 KB
+Rescaling Bm.FormRuins.2RCbg... ok
+music\fly\theo-inside.dat
+Rescaling Bm.FormOptions2.2Bg... ok
+Operating system=Windows 8 or newer build 6.2.9200  [x64]
+Physical memory usage is decreasing (2609 MB)
+Memory Info
+Physical Memory:
+Used=2672020 KB
+Available=14021352 KB
+Total=16693372 KB
+Virtual Memory:
+Used=473908 KB
+Available=3720268 KB
+Total=4194176 KB
+Textures Cache Size=0 KB
+Processor=Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz (6 cores)
+CPU Clock=3699 MHz
+Physical Memory Total=16302 MB
+Physical Memory Available=13691 MB
+Page File Total=18606 MB
+Page File Available=14670 MB
+Virtual Memory Total=4095 MB
+Virtual Memory Available=3633 MB
+Cache Size=393216 KB
+Loading configuration files.... ok!
+Creating window.... ok!
+Sound interfaces are:
+- Первичный звуковой драйвер
+- Line 1 (Virtual Audio Cable)
+- Headphones (High Definition Audio Device)
+- Динамики (High Definition Audio Device)
+- Digital Audio (S/PDIF) (High Definition Audio Device)
+Selected interface: 2 channels at 44100 Hz, 16 bit 
+Initializing sound.... ok!
+Pre-fetching music.... ok!
+Max Texture Size=16384x16384
+Desktop Resolution=1920x1080
+Available Resolutions=1024x768, 1152x864, 1280x720, 1280x768, 1280x800, 1280x960, 1280x1024, 1360x768, 1366x768, 1600x900, 1600x1024, 1680x1050, 1920x1080
+Re-initializing Direct3D device... ok!
+Available Video Memory=4182016 KB
+Available Video Memory Override=262144 KB
+Display Mode=1280x800 60Hz
+Sound=True
+Music=True
+fLoad... ok
+fPanelLoad... ok
+Load MatrixGame.dll .... ok
+Robot.Support()=0
+fPanelLoad... ok
+fMainForm... ok
+fPlanetQuest... ok
+fLoad... ok
+fPanelLoad... ok
+fGameSettings2... ok
+fIntroduction... ok
+Rescaling Bm.PanelMain2.2BG... ok
+Physical memory usage is increasing (2866 MB)
+Memory Info
+Physical Memory:
+Used=2934836 KB
+Available=13758536 KB
+Total=16693372 KB
+Virtual Memory:
+Used=727740 KB
+Available=3466436 KB
+Total=4194176 KB
+Cache Size=219902 KB
+Textures Cache Size=24628 KB
+fPanelMain... ok
+fPanelPlanet... ok
+fPanelRuins... ok
+fPanelLoad... ok
+fHangar... ok
+fPanelMain... ok
+fPanelPlanet... ok
+fPanelLoad... ok
+fPlanet... ok
+fPanelMain... ok
+fPanelLoad... ok
+fPlanetNO... ok
+fPanelMain... ok
+fPanelRuins... ok
+fPanelLoad... ok
+fRuinsTalk... ok
+ab_MainForm... ok
+fPanelLoad... ok
+fPanelMain... ok
+fPanelPlanet... ok
+fPanelRuins... ok
+fPanelLoad... ok
+fEquipmentShop... ok
+fPanelMain... ok
+fPanelPlanet... ok
+fPanelRuins... ok
+fPanelLoad... ok
+fGoodsShop2... ok
+fPanelMain... ok
+fPanelPlanet... ok
+fPanelLoad... ok
+fGov... ok
+fPanelMain... ok
+fPanelPlanet... ok
+fPanelRuins... ok
+fPanelLoad... ok
+fInfo... ok
+fPanelMain... ok
+fRewards... ok
+fPanelMain... ok
+fShip2... ok
+fScaner... ok
+fPanelMain... ok
+fPanelLoad... ok
+fStarMap... ok
+fFilm... ok
+fPanelMain... ok
+fGalaxy2... ok
+fPanelLoad... ok
+fJump... ok
+fSaveManager... ok
+fGameLoad... ok
+fPanelLoad... ok
+fGameMenu... ok
+fCfgSettings... ok
+fGameEnd... ok
+fAbout... ok
+fScore... ok
+fSelectFace... ok
+fPanelMain... ok
+fJournal... ok
+fPanelLoad... ok
+fLoadRobot... ok
+fPanelLoad... ok
+fLoadQuest... ok
+fLoadAB... ok
+fAchievements... ok
+Rescaling Bm.FormRuins.2RCbg... ok
+Rescaling Bm.FormGov2.2TWinB... ok
+Rescaling Bm.FormGov2.2TWin... ok
+music\special\spaceiscalling.dat
+Rescaling Bm.FormOptions2.2Bg... ok
+Rescaling Bm.FormOptions2.2Left... ok
+Virtual memory usage is increasing (797 MB)
+Memory Info
+Physical Memory:
+Used=3101032 KB
+Available=13592340 KB
+Total=16693372 KB
+Virtual Memory:
+Used=816424 KB
+Available=3377752 KB
+Total=4194176 KB
+Cache Size=255388 KB
+Textures Cache Size=56454 KB
+Rescaling Bm.FormShop2.2bg... ok
+Rescaling Bm.FormShop2.2Fei... ok
+music\planet\fei1.dat
+music\fly\longway.dat
+music\rev\nikinit_fighter.dat
+music\special\outroden.dat
+Rescaling Bm.FormRuins.2SBbg... ok
+Rescaling Bm.FormInfo3.2BG... ok
+music\planet\fei1.dat
+music\rev\theo_just_listen.dat
+music\special\outroden.dat
+music\planet\fei1.dat
+music\special\outroden.dat
+music\rev\theo_just_listen.dat
+music\planet\fei1.dat
+Rescaling Bm.City.Fei... ok
+music\rev\theo_just_listen.dat
+music\special\outroden.dat
+music\rev\theo_just_listen.dat
+music\planet\fei1.dat
+Rescaling Bm.Gov.2FeiBGi... ok
+music\rev\theo_just_listen.dat
+music\special\outroden.dat
+music\rev\theo_just_listen.dat
+music\fly\fly3.dat
+music\planet\fei1.dat
+Physical memory usage is increasing (3130 MB)
+Memory Info
+Physical Memory:
+Used=3205156 KB
+Available=13488216 KB
+Total=16693372 KB
+Virtual Memory:
+Used=899248 KB
+Available=3294928 KB
+Total=4194176 KB
+Cache Size=211154 KB
+Textures Cache Size=74722 KB
+music\rev\theo_just_listen.dat
+music\fly\hyperdream2.dat
+music\special\outroden.dat
+Rescaling Bm.FormRuins.2MCbg... ok
+Rescaling Bm.FormShop2.2Gaal... ok
+music\planet\gaal.dat
+music\rev\theo_just_listen.dat
+music\battle\boy1.dat
+music\rev\your_favourite_spaceship.dat
+music\planet\fei1.dat
+music\planet\fei1.dat
+music\rev\theo_waiting_for_you.dat
+music\planet\fei1.dat
+music\rev\theo_just_listen.dat
+music\fly\trash.dat
+music\special\spaceiscalling.dat
+Rescaling Bm.FormRuins.2BKbg... ok
+Rescaling Bm.FormShop2.2People... ok
+music\planet\people.dat
+music\fly\theo-inside.dat
+music\planet\people.dat
+music\rev\nikinit_quazar.dat
+music\planet\weapon.dat
+Rescaling Bm.City.Peleng... ok
+Rescaling Bm.Gov.2PelengBGi... ok
+Rescaling Bm.FormShop2.2Peleng... ok
+music\planet\weapon.dat
+music\special\hymn.dat
+music\rev\theo_just_listen.dat
+music\fly\theo-inside.dat
+music\planet\people.dat
+music\fly\theo-inside.dat
+music\planet\people.dat
+music\rev\nikinit_last_flight.dat
+music\planet\weapon.dat
+music\planet\weapon.dat
+music\rev\theo_running_away.dat
+music\planet\weapon.dat
+Virtual memory usage is increasing (1054 MB)
+Memory Info
+Physical Memory:
+Used=3266264 KB
+Available=13427108 KB
+Total=16693372 KB
+Virtual Memory:
+Used=1079672 KB
+Available=3114504 KB
+Total=4194176 KB
+Cache Size=318382 KB
+Textures Cache Size=101377 KB
+music\rev\nikinit_meteorit_rain.dat
+music\planet\people.dat
+Rescaling Bm.City.People... ok
+Rescaling Bm.Gov.2PeopleBGi... ok
+music\rev\nikinit_meteorit_rain.dat
+music\special\spaceiscalling.dat
+Rescaling Bm.FormRuins.2WBbg... ok
+music\planet\malloc4.dat
+music\special\spaceiscalling.dat
+music\planet\malloc4.dat
+music\fly\trash.dat
+music\planet\fei1.dat
+music\fly\awakening.dat
+music\special\spaceiscalling.dat
+music\planet\malloc4.dat
+music\rev\nikinit_through_the_stars.dat
+music\rev\nikinit_polet.dat
+music\special\spaceiscalling.dat
+music\special\outroden.dat
+music\rev\nikinit_wandering_warrior.dat
+music\special\outroden.dat
+music\rev\nikinit_wandering_warrior.dat
+music\planet\fei1.dat
+music\rev\nikinit_wandering_warrior.dat
+music\planet\fei1.dat
+music\rev\nikinit_wandering_warrior.dat
+Physical memory usage is increasing (3803 MB)
+Memory Info
+Physical Memory:
+Used=3895052 KB
+Available=12798320 KB
+Total=16693372 KB
+Virtual Memory:
+Used=1121504 KB
+Available=3072672 KB
+Total=4194176 KB
+Cache Size=365010 KB
+Textures Cache Size=62324 KB
+Physical memory usage is increasing (4069 MB)
+Memory Info
+Physical Memory:
+Used=4167448 KB
+Available=12525924 KB
+Total=16693372 KB
+Virtual Memory:
+Used=1121504 KB
+Available=3072672 KB
+Total=4194176 KB
+Cache Size=365010 KB
+Textures Cache Size=62324 KB
+Physical memory usage is decreasing (3249 MB)
+Memory Info
+Physical Memory:
+Used=3327036 KB
+Available=13366336 KB
+Total=16693372 KB
+Virtual Memory:
+Used=1121504 KB
+Available=3072672 KB
+Total=4194176 KB
+Cache Size=365010 KB
+Textures Cache Size=62324 KB
+music\fly\beyond_reach.dat
+music\planet\weapon.dat
+music\planet\weapon.dat
+music\special\hymn.dat
+music\fly\beyond_reach.dat
+music\special\outroden.dat
+music\planet\gaal.dat
+music\rev\nikinit_polet.dat
+Physical memory usage is increasing (3694 MB)
+Memory Info
+Physical Memory:
+Used=3785544 KB
+Available=12907828 KB
+Total=16693372 KB
+Virtual Memory:
+Used=1110836 KB
+Available=3083340 KB
+Total=4194176 KB
+Cache Size=382723 KB
+Textures Cache Size=119891 KB
+Physical memory usage is increasing (3962 MB)
+Memory Info
+Physical Memory:
+Used=4057256 KB
+Available=12636116 KB
+Total=16693372 KB
+Virtual Memory:
+Used=1110836 KB
+Available=3083340 KB
+Total=4194176 KB
+Cache Size=382723 KB
+Textures Cache Size=119891 KB
+Physical memory usage is increasing (4225 MB)
+Memory Info
+Physical Memory:
+Used=4326872 KB
+Available=12366500 KB
+Total=16693372 KB
+Virtual Memory:
+Used=1110836 KB
+Available=3083340 KB
+Total=4194176 KB
+Cache Size=382723 KB
+Textures Cache Size=119891 KB
+Physical memory usage is decreasing (3347 MB)
+Memory Info
+Physical Memory:
+Used=3428080 KB
+Available=13265292 KB
+Total=16693372 KB
+Virtual Memory:
+Used=1110836 KB
+Available=3083340 KB
+Total=4194176 KB
+Cache Size=382723 KB
+Textures Cache Size=119891 KB
+Physical memory usage is increasing (3752 MB)
+Memory Info
+Physical Memory:
+Used=3842352 KB
+Available=12851020 KB
+Total=16693372 KB
+Virtual Memory:
+Used=1110836 KB
+Available=3083340 KB
+Total=4194176 KB
+Cache Size=382723 KB
+Textures Cache Size=119891 KB
+Physical memory usage is increasing (4075 MB)
+Memory Info
+Physical Memory:
+Used=4173196 KB
+Available=12520176 KB
+Total=16693372 KB
+Virtual Memory:
+Used=1110836 KB
+Available=3083340 KB
+Total=4194176 KB
+Cache Size=382723 KB
+Textures Cache Size=119891 KB
+Physical memory usage is decreasing (3361 MB)
+Memory Info
+Physical Memory:
+Used=3442492 KB
+Available=13250880 KB
+Total=16693372 KB
+Virtual Memory:
+Used=1110836 KB
+Available=3083340 KB
+Total=4194176 KB
+Cache Size=382723 KB
+Textures Cache Size=119891 KB
+Physical memory usage is increasing (3855 MB)
+Memory Info
+Physical Memory:
+Used=3947676 KB
+Available=12745696 KB
+Total=16693372 KB
+Virtual Memory:
+Used=1110836 KB
+Available=3083340 KB
+Total=4194176 KB
+Cache Size=382723 KB
+Textures Cache Size=119891 KB
+music\planet\fei1.dat
+Physical memory usage is increasing (4112 MB)
+Memory Info
+Physical Memory:
+Used=4210568 KB
+Available=12482804 KB
+Total=16693372 KB
+Virtual Memory:
+Used=1102500 KB
+Available=3091676 KB
+Total=4194176 KB
+Cache Size=380581 KB
+Textures Cache Size=2805 KB
+Physical memory usage is decreasing (3746 MB)
+Memory Info
+Physical Memory:
+Used=3832932 KB
+Available=12860440 KB
+Total=16693372 KB
+Virtual Memory:
+Used=1102500 KB
+Available=3091676 KB
+Total=4194176 KB
+Cache Size=380581 KB
+Textures Cache Size=3413 KB
+Physical memory usage is decreasing (3341 MB)
+Memory Info
+Physical Memory:
+Used=3421828 KB
+Available=13271544 KB
+Total=16693372 KB
+Virtual Memory:
+Used=1102500 KB
+Available=3091676 KB
+Total=4194176 KB
+Cache Size=380581 KB
+Textures Cache Size=3413 KB
+Physical memory usage is increasing (3598 MB)
+Memory Info
+Physical Memory:
+Used=3685292 KB
+Available=13008080 KB
+Total=16693372 KB
+Virtual Memory:
+Used=1102500 KB
+Available=3091676 KB
+Total=4194176 KB
+Cache Size=380581 KB
+Textures Cache Size=3413 KB
+Physical memory usage is decreasing (3295 MB)
+Memory Info
+Physical Memory:
+Used=3374892 KB
+Available=13318480 KB
+Total=16693372 KB
+Virtual Memory:
+Used=1118428 KB
+Available=3075748 KB
+Total=4194176 KB
+Cache Size=391216 KB
+Textures Cache Size=7279 KB
+music\planet\fei1.dat
+music\rev\theo_waiting_for_you.dat
+music\fly\awakening.dat
+music\special\outroden.dat
+music\rev\theo_just_listen.dat
+music\rev\nikinit_warman.dat
+music\special\hymn.dat
+Rescaling Bm.FormEnd2.PanelBottom... ok
+Rescaling Bm.FormEnd2.PanelTop... ok
+music\rev\nikinit_quazar.dat
+music\rev\your_favourite_spaceship.dat
+music\planet\cosmic2.dat
+music\rev\nikinit_polet.dat
+music\rev\malloc_pirate.dat
+Rescaling Bm.City.MalocPirate... ok
+Rescaling Bm.Gov.MalocPirateBG... ok
+music\rev\nikinit_polet.dat
+music\special\outroden.dat
+music\rev\theo_just_listen.dat
+music\special\spaceiscalling.dat
+Rescaling Bm.FormRuins.2PBbg... ok
+music\rev\human_pirate.dat
+Rescaling Bm.FormShop2.2People... ok
+music\rev\theo_just_listen.dat
+music\fly\theo-inside.dat
+music\rev\nikinit_warman.dat
+music\rev\your_favourite_spaceship.dat
+music\fly\theo-inside.dat
+music\rev\human_pirate.dat
+music\special\spaceiscalling.dat
+music\rev\theo_just_listen.dat
+music\rev\engine_warming.dat
+music\battle\fight2.dat
+music\rev\theo_just_listen.dat
+music\battle\fight2.dat
+music\special\outroden.dat
+music\planet\fei1.dat
