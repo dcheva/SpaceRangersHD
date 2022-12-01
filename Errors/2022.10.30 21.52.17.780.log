@@ -1,0 +1,351 @@
+Start
+Build=2.1.2442 (11 April 2022)
+DXVersion=12.0.0
+GameDistributor=GOG
+Not installed - english, try to switch to russian
+Visual C++ 2010 (x86) found
+Visual C++ 2010 (x64) found
+Operating system=Windows 8 or newer build 6.2.9200  [x64]
+Processor=Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz (4 cores)
+CPU Clock=3725 MHz
+Physical Memory Total=8129 MB
+Physical Memory Available=4242 MB
+Page File Total=14017 MB
+Page File Available=9167 MB
+Virtual Memory Total=4095 MB
+Virtual Memory Available=3972 MB
+Creating cfg.txt ... ok!
+Cache Size=393216 KB
+Loading configuration files.... ok!
+Creating window.... ok!
+Sound interfaces are:
+- Первичный звуковой драйвер
+- Динамики (High Definition Audio Device)
+- Digital Audio (S/PDIF) (High Definition Audio Device)
+Selected interface: 2 channels at 44100 Hz, 16 bit 
+Initializing sound.... ok!
+Loading libvorbisfile.dll....ok!
+Pre-fetching music.... ok!
+Initializing DX9.... ok!
+Videocard=AMD Radeon R7 200 Series
+Driver=aticfx32.dll
+Max Texture Size=16384x16384
+Desktop Resolution=1920x1080
+Available Resolutions=1024x768, 1152x864, 1280x720, 1280x800, 1280x1024, 1440x900, 1600x900, 1600x1200, 1680x1050, 1920x1080
+Initializing Direct3D device... ok!
+Available Video Memory=4169728 KB
+Available Video Memory Override=262144 KB
+Display Mode=1920x1080 60Hz
+Sound=True
+Music=True
+fLoad... ok
+fPanelLoad... ok
+Load MatrixGame.dll .... ok
+Robot.Support()=0
+Physical memory usage is increasing (4116 MB)
+Memory Info
+Physical Memory:
+Used=4215668 KB
+Available=4109328 KB
+Total=8324996 KB
+Virtual Memory:
+Used=454388 KB
+Available=3739788 KB
+Total=4194176 KB
+Cache Size=79471 KB
+Textures Cache Size=21560 KB
+fPanelLoad... ok
+fMainForm... ok
+fPlanetQuest... ok
+fLoad... ok
+fPanelLoad... ok
+fGameSettings2... ok
+fIntroduction... ok
+Rescaling Bm.PanelMain2.2BG... ok
+fPanelMain... ok
+fPanelPlanet... ok
+fPanelRuins... ok
+fPanelLoad... ok
+fHangar... ok
+fPanelMain... ok
+fPanelPlanet... ok
+fPanelLoad... ok
+fPlanet... ok
+fPanelMain... ok
+fPanelLoad... ok
+fPlanetNO... ok
+fPanelMain... ok
+fPanelRuins... ok
+fPanelLoad... ok
+fRuinsTalk... ok
+ab_MainForm... ok
+fPanelLoad... ok
+fPanelMain... ok
+fPanelPlanet... ok
+fPanelRuins... ok
+fPanelLoad... ok
+fEquipmentShop... ok
+fPanelMain... ok
+fPanelPlanet... ok
+fPanelRuins... ok
+fPanelLoad... ok
+fGoodsShop2... ok
+fPanelMain... ok
+fPanelPlanet... ok
+fPanelLoad... ok
+fGov... ok
+fPanelMain... ok
+fPanelPlanet... ok
+fPanelRuins... ok
+fPanelLoad... ok
+fInfo... ok
+fPanelMain... ok
+fRewards... ok
+fPanelMain... ok
+fShip2... ok
+fScaner... ok
+fPanelMain... ok
+fPanelLoad... ok
+fStarMap... ok
+fFilm... ok
+fPanelMain... ok
+fGalaxy2... ok
+fPanelLoad... ok
+fJump... ok
+fSaveManager... ok
+fGameLoad... ok
+fPanelLoad... ok
+fGameMenu... ok
+fCfgSettings... ok
+fGameEnd... ok
+fAbout... ok
+fScore... ok
+fSelectFace... ok
+fPanelMain... ok
+fJournal... ok
+fPanelLoad... ok
+fLoadRobot... ok
+fPanelLoad... ok
+fLoadQuest... ok
+fLoadAB... ok
+fAchievements... ok
+music\fly\hyperdream2.dat
+Rescaling Bm.FormMain2.2AnimMain... ok
+Rescaling Bm.FormOptions2.2Bg... ok
+Rescaling Bm.FormOptions2.2Left... ok
+Rescaling Bm.FormGameSet2.2bg... ok
+Rescaling Bm.FormGameSet2.2Footer... ok
+Physical memory usage is increasing (4395 MB)
+Memory Info
+Physical Memory:
+Used=4500788 KB
+Available=3824208 KB
+Total=8324996 KB
+Virtual Memory:
+Used=706544 KB
+Available=3487632 KB
+Total=4194176 KB
+Cache Size=318452 KB
+Textures Cache Size=71660 KB
+Operating system=Windows 8 or newer build 6.2.9200  [x64]
+Physical memory usage is decreasing (3811 MB)
+Memory Info
+Physical Memory:
+Used=3902960 KB
+Available=4422036 KB
+Total=8324996 KB
+Virtual Memory:
+Used=305432 KB
+Available=3888744 KB
+Total=4194176 KB
+Textures Cache Size=0 KB
+Processor=Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz (4 cores)
+CPU Clock=3686 MHz
+Physical Memory Total=8129 MB
+Physical Memory Available=4317 MB
+Page File Total=14017 MB
+Page File Available=8975 MB
+Virtual Memory Total=4095 MB
+Virtual Memory Available=3797 MB
+Cache Size=393216 KB
+Loading configuration files.... ok!
+Creating window.... ok!
+Sound interfaces are:
+- Первичный звуковой драйвер
+- Динамики (High Definition Audio Device)
+- Digital Audio (S/PDIF) (High Definition Audio Device)
+Selected interface: 2 channels at 44100 Hz, 16 bit 
+Initializing sound.... ok!
+Max Texture Size=16384x16384
+Desktop Resolution=1920x1080
+Available Resolutions=1024x768, 1152x864, 1280x720, 1280x800, 1280x1024, 1440x900, 1600x900, 1600x1200, 1680x1050, 1920x1080
+Re-initializing Direct3D device... ok!
+Available Video Memory=4169728 KB
+Available Video Memory Override=262144 KB
+Display Mode=1920x1080 60Hz
+Sound=True
+Music=False
+fLoad... ok
+fPanelLoad... ok
+Load MatrixGame.dll .... ok
+Robot.Support()=0
+Physical memory usage is increasing (4073 MB)
+Memory Info
+Physical Memory:
+Used=4170964 KB
+Available=4154032 KB
+Total=8324996 KB
+Virtual Memory:
+Used=560996 KB
+Available=3633180 KB
+Total=4194176 KB
+Cache Size=198725 KB
+Textures Cache Size=22583 KB
+fPanelLoad... ok
+fMainForm... ok
+fPlanetQuest... ok
+fLoad... ok
+fPanelLoad... ok
+fGameSettings2... ok
+fIntroduction... ok
+Rescaling Bm.PanelMain2.2BG... ok
+fPanelMain... ok
+fPanelPlanet... ok
+fPanelRuins... ok
+fPanelLoad... ok
+fHangar... ok
+fPanelMain... ok
+fPanelPlanet... ok
+fPanelLoad... ok
+fPlanet... ok
+fPanelMain... ok
+fPanelLoad... ok
+fPlanetNO... ok
+fPanelMain... ok
+fPanelRuins... ok
+fPanelLoad... ok
+fRuinsTalk... ok
+ab_MainForm... ok
+fPanelLoad... ok
+fPanelMain... ok
+fPanelPlanet... ok
+fPanelRuins... ok
+fPanelLoad... ok
+fEquipmentShop... ok
+fPanelMain... ok
+fPanelPlanet... ok
+fPanelRuins... ok
+fPanelLoad... ok
+fGoodsShop2... ok
+fPanelMain... ok
+fPanelPlanet... ok
+fPanelLoad... ok
+fGov... ok
+fPanelMain... ok
+fPanelPlanet... ok
+fPanelRuins... ok
+fPanelLoad... ok
+fInfo... ok
+fPanelMain... ok
+fRewards... ok
+fPanelMain... ok
+fShip2... ok
+fScaner... ok
+fPanelMain... ok
+fPanelLoad... ok
+fStarMap... ok
+fFilm... ok
+fPanelMain... ok
+fGalaxy2... ok
+fPanelLoad... ok
+fJump... ok
+fSaveManager... ok
+fGameLoad... ok
+fPanelLoad... ok
+fGameMenu... ok
+fCfgSettings... ok
+fGameEnd... ok
+fAbout... ok
+fScore... ok
+fSelectFace... ok
+fPanelMain... ok
+fJournal... ok
+fPanelLoad... ok
+fLoadRobot... ok
+fPanelLoad... ok
+fLoadQuest... ok
+fLoadAB... ok
+fAchievements... ok
+Rescaling Bm.FormMain2.2AnimMain... ok
+Physical memory usage is increasing (4342 MB)
+Memory Info
+Physical Memory:
+Used=4446628 KB
+Available=3878368 KB
+Total=8324996 KB
+Virtual Memory:
+Used=711652 KB
+Available=3482524 KB
+Total=4194176 KB
+Cache Size=306948 KB
+Textures Cache Size=53865 KB
+Rescaling Bm.FormOptions2.2Bg... ok
+Rescaling Bm.FormOptions2.2Left... ok
+Operating system=Windows 8 or newer build 6.2.9200  [x64]
+Physical memory usage is decreasing (3971 MB)
+Memory Info
+Physical Memory:
+Used=4066912 KB
+Available=4258084 KB
+Total=8324996 KB
+Virtual Memory:
+Used=304976 KB
+Available=3889200 KB
+Total=4194176 KB
+Textures Cache Size=0 KB
+Processor=Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz (4 cores)
+CPU Clock=3707 MHz
+Physical Memory Total=8129 MB
+Physical Memory Available=4168 MB
+Page File Total=14017 MB
+Page File Available=8815 MB
+Virtual Memory Total=4095 MB
+Virtual Memory Available=3798 MB
+Cache Size=393216 KB
+Loading configuration files.... ok!
+Creating window.... ok!
+Sound interfaces are:
+- Первичный звуковой драйвер
+- Динамики (High Definition Audio Device)
+- Digital Audio (S/PDIF) (High Definition Audio Device)
+Selected interface: 2 channels at 44100 Hz, 16 bit 
+Initializing sound.... ok!
+Max Texture Size=16384x16384
+Desktop Resolution=1920x1080
+Available Resolutions=1024x768, 1152x864, 1280x720, 1280x800, 1280x1024, 1440x900, 1600x900, 1600x1200, 1680x1050, 1920x1080
+
+D3DPresent structure:
+BackBufferWidth = 1600, previous value = 1920
+BackBufferHeight = 1200, previous value = 1080
+BackBufferCount = 2
+BackBufferFormat = 22
+MultiSampleQuality = 0
+MultiSampleType = 0
+SwapEffect = 2
+hDeviceWindow = 6096032
+Windowed = 0
+EnableAutoDepthStencil = 0
+AutoDepthStencilFormat = 0
+Flags = 0
+FullScreen_RefreshRateInHz = 60
+PresentationInterval = 2147483648
+
+Exception EDirectXRender with message GR_DXInit()::GR_D3DDevice.Reset = D3DERR_NOTAVAILABLE (-2005530518)
+Sound=True
+Music=False
+fLoad... ok
+fPanelLoad... ok
+Load MatrixGame.dll .... ok
+Robot.Support()=0
+EAccessViolation Access violation at address 0083342D in module 'Rangers.exe'. Read of address 00000000
+Exception Exception with message Error in procedure TMessageLoopGI.Run, Load, label = 15
