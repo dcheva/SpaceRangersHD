@@ -110,3 +110,4 @@ QuickSaveExtraSlots=0
 ForsageDeactivatePercent=35
 AnimMenuShip=True
 FontSmooth=False
+WeWarnedUserAboutMods=True
