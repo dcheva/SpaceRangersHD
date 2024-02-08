@@ -8,11 +8,11 @@ Visual C++ 2010 (x64) found
 VC 9.0 SP1 (x86) found
 Operating system=Windows 8 or newer build 6.2.9200  [x64]
 Processor=Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz (6 cores)
-CPU Clock=3754 MHz
+CPU Clock=3752 MHz
 Physical Memory Total=16302 MB
-Physical Memory Available=11639 MB
+Physical Memory Available=11678 MB
 Page File Total=23470 MB
-Page File Available=17782 MB
+Page File Available=17793 MB
 Virtual Memory Total=4095 MB
 Virtual Memory Available=3973 MB
 Cache Size=393216 KB
@@ -118,98 +118,24 @@ fPanelLoad... ok
 fLoadQuest... ok
 fLoadAB... ok
 fAchievements... ok
-music\rev\theo_running_away.dat
+music\special\spaceiscalling.dat
 Rescaling Bm.FormMain2.2AnimMain... ok
-Rescaling Bm.FormGameSet2.2bg... ok
-Rescaling Bm.FormGameSet2.2Footer... ok
-music\special\spaceiscalling.dat
-music\special\spaceiscalling.dat
-music\fly\longway.dat
-Rescaling Bm.FormIntro2.PanelBottom... ok
-Rescaling Bm.FormIntro2.PanelTop... ok
-music\fly\theo-inside.dat
-Rescaling Bm.FormRuins.2RCbg... ok
+music\special\outroden.dat
+music\planet\fei1.dat
+Rescaling Bm.FormRuins.2SBbg... ok
 Rescaling Bm.FormGov2.2TWinB... ok
 Rescaling Bm.FormGov2.2TWin... ok
-Rescaling Bm.FormShop2.2bg... ok
-Rescaling Bm.FormShop2.2Fei... ok
-music\planet\fei1.dat
-music\fly\theo-inside.dat
-music\fly\theo-inside.dat
-music\fly\beyond_reach.dat
-music\planet\fei1.dat
-Rescaling Bm.FormInfo3.2BG... ok
-music\fly\theo-inside.dat
-music\planet\fei1.dat
-music\rev\nikinit_meteorit_rain.dat
-music\fly\theo-inside.dat
-music\fly\theo-inside.dat
-music\fly\longway.dat
-music\planet\fei1.dat
-music\fly\hyperdream2.dat
-Rescaling Bm.FormMain2.2AnimMain... ok
-Rescaling Bm.FormGameSet2.2bg... ok
-Rescaling Bm.FormGameSet2.2Footer... ok
-Rescaling Bm.FormIntro2.PanelBottom... ok
-Rescaling Bm.FormIntro2.PanelTop... ok
-music\fly\theo-inside.dat
-music\planet\fei1.dat
-music\fly\starflight.dat
-music\special\spaceiscalling.dat
+music\rev\nikinit_quazar.dat
+music\special\outroden.dat
 music\planet\fei1.dat
 music\rev\theo_just_listen.dat
+music\battle\boy1.dat
+music\special\outroden.dat
+music\special\outroden.dat
+music\rev\theo_running_away.dat
+music\planet\fei1.dat
+music\rev\theo_just_listen.dat
+music\battle\fight2.dat
 music\planet\weapon.dat
 Rescaling Bm.City.Peleng... ok
 Rescaling Bm.Gov.2PelengBGi... ok
-music\rev\theo_just_listen.dat
-music\special\outroden.dat
-Rescaling Bm.FormRuins.2MCbg... ok
-music\rev\theo_just_listen.dat
-music\planet\weapon.dat
-music\rev\theo_just_listen.dat
-music\special\outroden.dat
-music\rev\theo_just_listen.dat
-music\rev\nikinit_polet.dat
-music\special\outroden.dat
-music\rev\theo_just_listen.dat
-music\planet\weapon.dat
-music\rev\theo_just_listen.dat
-music\special\outroden.dat
-music\rev\theo_just_listen.dat
-music\planet\weapon.dat
-Rescaling Bm.FormShop2.2bg... ok
-Rescaling Bm.FormShop2.2Peleng... ok
-music\planet\weapon.dat
-music\fly\longway.dat
-music\planet\weapon.dat
-music\planet\weapon.dat
-music\special\hymn.dat
-music\special\outroden.dat
-music\quests\gladiator.dat
-Virtual memory usage is increasing (1017 MB)
-Memory Info
-Physical Memory:
-Used=5220760 KB
-Available=11472496 KB
-Total=16693256 KB
-Virtual Memory:
-Used=1041768 KB
-Available=3152408 KB
-Total=4194176 KB
-Cache Size=232094 KB
-Textures Cache Size=44187 KB
-music\rev\theo_just_listen.dat
-music\rev\nikinit_last_flight.dat
-music\fly\theo-inside.dat
-music\planet\fei1.dat
-music\rev\theo_just_listen.dat
-music\rev\nikinit_fighter.dat
-music\special\outroden.dat
-Rescaling Bm.FormRuins.2SBbg... ok
-music\rev\theo_just_listen.dat
-music\special\hymn.dat
-Rescaling Bm.FormEnd2.PanelBottom... ok
-Rescaling Bm.FormEnd2.PanelTop... ok
-Rescaling Bm.FormScore2.2bg... ok
-music\special\spaceiscalling.dat
-Rescaling Bm.FormMain2.2AnimMain... ok
