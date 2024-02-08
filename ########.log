@@ -1,0 +1,215 @@
+Start
+Build=2.1.2448 (11 December 2023)
+DXVersion=12.0.0
+GameDistributor=GOG
+Not installed - english, try to switch to russian
+Visual C++ 2010 (x86) found
+Visual C++ 2010 (x64) found
+VC 9.0 SP1 (x86) found
+Operating system=Windows 8 or newer build 6.2.9200  [x64]
+Processor=Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz (6 cores)
+CPU Clock=3754 MHz
+Physical Memory Total=16302 MB
+Physical Memory Available=11639 MB
+Page File Total=23470 MB
+Page File Available=17782 MB
+Virtual Memory Total=4095 MB
+Virtual Memory Available=3973 MB
+Cache Size=393216 KB
+Loading configuration files.... ok!
+Creating window.... ok!
+Sound interfaces are:
+- Primary Sound Driver
+- Headphones (High Definition Audio Device)
+- Speakers (High Definition Audio Device)
+- Digital Audio (S/PDIF) (High Definition Audio Device)
+Selected interface: 2 channels at 44100 Hz, 16 bit 
+Initializing sound.... ok!
+Loading libvorbisfile.dll....ok!
+Pre-fetching music.... ok!
+Initializing DX9.... ok!
+Videocard=NVIDIA GeForce GTX 1660
+Driver=nvldumd.dll
+Max Texture Size=16384x16384
+Desktop Resolution=1920x1080
+Available Resolutions=1024x768, 1152x864, 1280x720, 1280x768, 1280x800, 1280x960, 1280x1024, 1360x768, 1366x768, 1440x1080, 1600x900, 1600x1024, 1680x1050, 1920x1080
+Initializing Direct3D device... ok!
+Available Video Memory=4169728 KB
+Available Video Memory Override=262144 KB
+Display Mode=1920x1080 60Hz
+Sound=True
+Music=True
+fLoad... ok
+fPanelLoad... ok
+Load MatrixGame.dll .... ok
+Robot.Support()=0
+fPanelLoad... ok
+fMainForm... ok
+fPlanetQuest... ok
+fLoad... ok
+fPanelLoad... ok
+fGameSettings2... ok
+fIntroduction... ok
+Rescaling Bm.PanelMain2.2BG... ok
+fPanelMain... ok
+fPanelPlanet... ok
+fPanelRuins... ok
+fPanelLoad... ok
+fHangar... ok
+fPanelMain... ok
+fPanelPlanet... ok
+fPanelLoad... ok
+fPlanet... ok
+fPanelMain... ok
+fPanelLoad... ok
+fPlanetNO... ok
+fPanelMain... ok
+fPanelRuins... ok
+fPanelLoad... ok
+fRuinsTalk... ok
+ab_MainForm... ok
+fPanelLoad... ok
+fPanelMain... ok
+fPanelPlanet... ok
+fPanelRuins... ok
+fPanelLoad... ok
+fEquipmentShop... ok
+fPanelMain... ok
+fPanelPlanet... ok
+fPanelRuins... ok
+fPanelLoad... ok
+fGoodsShop2... ok
+fPanelMain... ok
+fPanelPlanet... ok
+fPanelLoad... ok
+fGov... ok
+fPanelMain... ok
+fPanelPlanet... ok
+fPanelRuins... ok
+fPanelLoad... ok
+fInfo... ok
+fPanelMain... ok
+fRewards... ok
+fPanelMain... ok
+fShip2... ok
+fScaner... ok
+fPanelMain... ok
+fPanelLoad... ok
+fStarMap... ok
+fFilm... ok
+fPanelMain... ok
+fGalaxy2... ok
+fPanelLoad... ok
+fJump... ok
+fSaveManager... ok
+fGameLoad... ok
+fPanelLoad... ok
+fGameMenu... ok
+fCfgSettings... ok
+fGameEnd... ok
+fAbout... ok
+fScore... ok
+fSelectFace... ok
+fPanelMain... ok
+fJournal... ok
+fPanelLoad... ok
+fLoadRobot... ok
+fPanelLoad... ok
+fLoadQuest... ok
+fLoadAB... ok
+fAchievements... ok
+music\rev\theo_running_away.dat
+Rescaling Bm.FormMain2.2AnimMain... ok
+Rescaling Bm.FormGameSet2.2bg... ok
+Rescaling Bm.FormGameSet2.2Footer... ok
+music\special\spaceiscalling.dat
+music\special\spaceiscalling.dat
+music\fly\longway.dat
+Rescaling Bm.FormIntro2.PanelBottom... ok
+Rescaling Bm.FormIntro2.PanelTop... ok
+music\fly\theo-inside.dat
+Rescaling Bm.FormRuins.2RCbg... ok
+Rescaling Bm.FormGov2.2TWinB... ok
+Rescaling Bm.FormGov2.2TWin... ok
+Rescaling Bm.FormShop2.2bg... ok
+Rescaling Bm.FormShop2.2Fei... ok
+music\planet\fei1.dat
+music\fly\theo-inside.dat
+music\fly\theo-inside.dat
+music\fly\beyond_reach.dat
+music\planet\fei1.dat
+Rescaling Bm.FormInfo3.2BG... ok
+music\fly\theo-inside.dat
+music\planet\fei1.dat
+music\rev\nikinit_meteorit_rain.dat
+music\fly\theo-inside.dat
+music\fly\theo-inside.dat
+music\fly\longway.dat
+music\planet\fei1.dat
+music\fly\hyperdream2.dat
+Rescaling Bm.FormMain2.2AnimMain... ok
+Rescaling Bm.FormGameSet2.2bg... ok
+Rescaling Bm.FormGameSet2.2Footer... ok
+Rescaling Bm.FormIntro2.PanelBottom... ok
+Rescaling Bm.FormIntro2.PanelTop... ok
+music\fly\theo-inside.dat
+music\planet\fei1.dat
+music\fly\starflight.dat
+music\special\spaceiscalling.dat
+music\planet\fei1.dat
+music\rev\theo_just_listen.dat
+music\planet\weapon.dat
+Rescaling Bm.City.Peleng... ok
+Rescaling Bm.Gov.2PelengBGi... ok
+music\rev\theo_just_listen.dat
+music\special\outroden.dat
+Rescaling Bm.FormRuins.2MCbg... ok
+music\rev\theo_just_listen.dat
+music\planet\weapon.dat
+music\rev\theo_just_listen.dat
+music\special\outroden.dat
+music\rev\theo_just_listen.dat
+music\rev\nikinit_polet.dat
+music\special\outroden.dat
+music\rev\theo_just_listen.dat
+music\planet\weapon.dat
+music\rev\theo_just_listen.dat
+music\special\outroden.dat
+music\rev\theo_just_listen.dat
+music\planet\weapon.dat
+Rescaling Bm.FormShop2.2bg... ok
+Rescaling Bm.FormShop2.2Peleng... ok
+music\planet\weapon.dat
+music\fly\longway.dat
+music\planet\weapon.dat
+music\planet\weapon.dat
+music\special\hymn.dat
+music\special\outroden.dat
+music\quests\gladiator.dat
+Virtual memory usage is increasing (1017 MB)
+Memory Info
+Physical Memory:
+Used=5220760 KB
+Available=11472496 KB
+Total=16693256 KB
+Virtual Memory:
+Used=1041768 KB
+Available=3152408 KB
+Total=4194176 KB
+Cache Size=232094 KB
+Textures Cache Size=44187 KB
+music\rev\theo_just_listen.dat
+music\rev\nikinit_last_flight.dat
+music\fly\theo-inside.dat
+music\planet\fei1.dat
+music\rev\theo_just_listen.dat
+music\rev\nikinit_fighter.dat
+music\special\outroden.dat
+Rescaling Bm.FormRuins.2SBbg... ok
+music\rev\theo_just_listen.dat
+music\special\hymn.dat
+Rescaling Bm.FormEnd2.PanelBottom... ok
+Rescaling Bm.FormEnd2.PanelTop... ok
+Rescaling Bm.FormScore2.2bg... ok
+music\special\spaceiscalling.dat
+Rescaling Bm.FormMain2.2AnimMain... ok
