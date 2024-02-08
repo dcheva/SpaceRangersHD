@@ -10,9 +10,9 @@ Operating system=Windows 8 or newer build 6.2.9200  [x64]
 Processor=Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz (6 cores)
 CPU Clock=3752 MHz
 Physical Memory Total=16302 MB
-Physical Memory Available=11678 MB
+Physical Memory Available=11668 MB
 Page File Total=23470 MB
-Page File Available=17793 MB
+Page File Available=17769 MB
 Virtual Memory Total=4095 MB
 Virtual Memory Available=3973 MB
 Cache Size=393216 KB
@@ -118,33 +118,5 @@ fPanelLoad... ok
 fLoadQuest... ok
 fLoadAB... ok
 fAchievements... ok
-music\special\spaceiscalling.dat
-Rescaling Bm.FormMain2.2AnimMain... ok
-music\special\outroden.dat
-music\planet\fei1.dat
-Rescaling Bm.FormRuins.2SBbg... ok
-Rescaling Bm.FormGov2.2TWinB... ok
-Rescaling Bm.FormGov2.2TWin... ok
-music\rev\nikinit_quazar.dat
-music\special\outroden.dat
-music\planet\fei1.dat
-music\rev\theo_just_listen.dat
-music\battle\boy1.dat
-music\special\outroden.dat
-music\special\outroden.dat
 music\rev\theo_running_away.dat
-music\planet\fei1.dat
-music\rev\theo_just_listen.dat
-music\battle\fight2.dat
-music\planet\weapon.dat
-Rescaling Bm.City.Peleng... ok
-Rescaling Bm.Gov.2PelengBGi... ok
-music\planet\weapon.dat
-music\fly\longway.dat
-music\planet\weapon.dat
-music\rev\theo_just_listen.dat
-music\battle\boy1.dat
-music\special\outroden.dat
-Rescaling Bm.FormShop2.2bg... ok
-Rescaling Bm.FormShop2.2Fei... ok
-music\rev\theo_just_listen.dat
+Rescaling Bm.FormMain2.2AnimMain... ok
