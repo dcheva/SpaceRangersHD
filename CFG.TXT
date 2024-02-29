@@ -1,15 +1,15 @@
-VideoMode=1920,1080
+VideoMode=0,0
 RobotResolution=0,0
 SkipIntro=True
-Window=True
-VSync=False
+Window=False
+VSync=True
 
 HardwareRender=True
 DisableTextureManager=False
 RenderModeScale=True
 
 SimpleCalc=False
-MultiThread=True
+MultiThread=False
 
 Debug=No
 
@@ -23,11 +23,11 @@ Sound=True
 SoundInSpace=True
 SoundVolume=100
 
-Music=False
-MusicInSpace=False
-MusicVolume=100
+Music=True
+MusicInSpace=True
+MusicVolume=50
 
-CountFilmSave=1
+CountFilmSave=7
 
 Wind=1
 ShipTail=2
@@ -49,11 +49,11 @@ ScrollStep=20
 CacheSize=0
 ShowFPS=False
 
-FilmSpeed=1
+FilmSpeed=2
 SkipGiper=True
 ChangeAutoPilot=2
-MusicInHyper=False
-MusicInPlanet=False
+MusicInHyper=True
+MusicInPlanet=True
 DefaultOrder=0
 PQuestAnim=True
 PQuestStyle=0
@@ -90,10 +90,10 @@ RobotMaxDistance=100
 
 ShowSystemMouse=True
 ViewFollowShip=True
-ViewPathLength=True
+ViewPathLength=False
 ActionDoubleClick=True
 ClickAutoCloseForm=True
-TurnSaveStep=7
+TurnSaveStep=0
 MaxPlayerNews=30
 MaxSearchResult=100
 DisableAutoPilot=False
@@ -104,7 +104,7 @@ ScreenShotType=1
 ScreenShotQuality=75
 DynamicTipsPos=True
 UseTablesForGov=False
-CurrentVersion=2.1.2442
+CurrentVersion=2.1.2448
 VideoMemSizeLimit=256
 QuickSaveExtraSlots=0
 ForsageDeactivatePercent=35
